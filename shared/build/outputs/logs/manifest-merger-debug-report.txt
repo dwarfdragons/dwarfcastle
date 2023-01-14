@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/doichindenchev/code/dwarfcastle/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5188030944446525625.xml:2:13-83
+INJECTED from /Users/doichindenchev/code/dwarfcastle/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5188030944446525625.xml:2:13-83
+INJECTED from /Users/doichindenchev/code/dwarfcastle/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5188030944446525625.xml:2:13-83
+	package
+		INJECTED from /Users/doichindenchev/code/dwarfcastle/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5188030944446525625.xml
+		ADDED from /Users/doichindenchev/code/dwarfcastle/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5188030944446525625.xml:2:13-83
+		INJECTED from /Users/doichindenchev/code/dwarfcastle/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5188030944446525625.xml
+	xmlns:android
+		ADDED from /Users/doichindenchev/code/dwarfcastle/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5188030944446525625.xml:2:23-81
+uses-sdk
+INJECTED from /Users/doichindenchev/code/dwarfcastle/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5188030944446525625.xml reason: use-sdk injection requested
+INJECTED from /Users/doichindenchev/code/dwarfcastle/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5188030944446525625.xml
+INJECTED from /Users/doichindenchev/code/dwarfcastle/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5188030944446525625.xml
+INJECTED from /Users/doichindenchev/code/dwarfcastle/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5188030944446525625.xml
+INJECTED from /Users/doichindenchev/code/dwarfcastle/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5188030944446525625.xml
+	android:targetSdkVersion
+		INJECTED from /Users/doichindenchev/code/dwarfcastle/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5188030944446525625.xml
+		ADDED from /Users/doichindenchev/code/dwarfcastle/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5188030944446525625.xml
+		INJECTED from /Users/doichindenchev/code/dwarfcastle/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5188030944446525625.xml
+	android:minSdkVersion
+		INJECTED from /Users/doichindenchev/code/dwarfcastle/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5188030944446525625.xml
+		ADDED from /Users/doichindenchev/code/dwarfcastle/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5188030944446525625.xml
+		INJECTED from /Users/doichindenchev/code/dwarfcastle/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5188030944446525625.xml
